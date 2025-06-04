@@ -1,0 +1,32 @@
+* {
+    font-family: ;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.startmenu {
+    text-align: center;
+    width: 100%;
+    height: 33vh;
+    margin-bottom: 2vh;
+    background-color: aqua;
+}
+
+.startitems {
+    background-color: transparent;
+    border-style: none;
+}
+
+.startitems:hover {
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.starttext {
+    margin-top: 10vh;
+}
